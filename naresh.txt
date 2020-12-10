@@ -1,1 +1,241 @@
 hi hi hi
+    1  ls
+    2  ls -a
+    3  pwd
+    4  ls -l
+    5  ls -lr
+    6  ln
+    7  python3 -v
+    8  clear
+    9  print("hello world")
+   10  print("hello")
+   11  python3
+   12  exit
+   13  python3
+   14  ls
+   15  cd desktop
+   16  cd Desktop/
+   17  cd naresh
+   18  ls
+   19  python3 hello.py 
+   20  python hello.py 
+   21  cd ..
+   22  python3 ~/labs/devnet-src/python/hello-world.py
+   23  python3 ~/labs/devnet-src/python
+   24  ls
+   25  cd labs
+   26  ls
+   27  cd devnet-src/
+   28  ls
+   29  cd p
+   30  cd python/
+   31  ls
+   32  cat devices.txt
+   33  ls
+   34  cd \
+   35  ls
+   36  mv ~/D
+   37  mv ~/Desktop/naresh/hello.py ~/labs/devnet-src/python/
+   38  cd labs
+   39  cd devnet-src/python/
+   40  ls
+   41  nano hello.py
+   42  ls
+   43  cat devices.txt hello.py
+   44  ls
+   45  type() int
+   46  nano hello.py
+   47  python3 hello.py
+   48  nano hello.py
+   49  python3 hello.py
+   50  nano hello.py
+   51  python3 hello.py
+   52  nano hello.py
+   53  python3 hello.py
+   54  cat >>hello.py
+   55  python3 hello.py
+   56  nano hello.py
+   57  clear
+   58  nano hello.py
+   59  cat >> hello.py
+   60  python3 hello.py
+   61  cat hello.py
+   62  python3
+   63  clear
+   64  python3
+   65  exit
+   66  ls -lr
+   67  ls -la
+   68  man ls -lr
+   69  ls -a
+   70  ls -p
+   71  ls -w
+   72  ls /w
+   73  ls /p
+   74  man ls
+   75  python3
+   76  exit
+   77  python3
+   78  ls
+   79  cd labs
+   80  cd devnet-src/ls
+   81  cd python
+   82  ls
+   83  cd devnet-src/
+   84  ls
+   85  cd python/
+   86  ls
+   87  nano myCity.py
+   88  python3 myCity.py
+   89  nano myCity.py
+   90  python3 myCity.py
+   91  nano myCity.py
+   92  nano myLocation.py
+   93  python3 myLocaion.py
+   94  python3 myLocation.py
+   95  nano myLocation.py
+   96  python3 myLocation.py
+   97  nano myLocation.py
+   98  python3 myLocation.py
+   99  python3 /home/devasc/labs/devnet-src/python/display.py
+  100  git config --global user.name "vurukondanaresh"
+  101  git config --global user.email "naresh.vurukonda@gmail.com"
+  102  git config --list
+  103  ls
+  104  cd labs
+  105  ls
+  106  cd devnet-src/
+  107  ls
+  108  mkdir git-local
+  109  ls
+  110  cd git-local/
+  111  ls
+  112  git init
+  113  ls
+  114  ls -a
+  115  git status
+  116  echo "welcome to Devnet Course" > test.txt
+  117  git status
+  118  ls -la
+  119  git add test.txt
+  120  git status
+  121  git commit -m "this is my first commit"
+  122  git status
+  123  git log
+  124  echo "welcome to Devnet Course. github lab activity" >> test.txt
+  125  git status
+  126  git add test.txt
+  127  git commit -m "this is my second commit"
+  128  git status
+  129  git log
+  130  git branch feature
+  131  git branch 
+  132  git checkout feature
+  133  git branch dev
+  134  git branch
+  135  echo "welcome to Devnet Course.GitHub lab activity.I am in the feature branch" >> test.txt
+  136  git status
+  137  git add test.txt
+  138  git status
+  139  git commit -m " this is third commit in freature branch"
+  140  git log
+  141  git checkout master
+  142  git branch
+  143  git log
+  144  git branch
+  145  git merge
+  146  git merge feature
+  147  git log
+  148  git branch
+  149  git branch -d dev
+  150  git log
+  151  git status
+  152  git brach
+  153  git branch
+  154  git log
+  155  mkdir devnet 
+  156  cd devnet
+  157  git init
+  158  ls -a
+  159  cp ../test.txt
+  160  ls
+  161  cd ..
+  162  ls
+  163  cd devnet/
+  164  cp ../test.txt .
+  165  ls
+  166  cd ca test.txt
+  167  cat test.txt
+  168  git config --list
+  169  ls
+  170  git remote add origin https://github.com/vurukondanaresh/devnet.git
+  171  ls
+  172  git remote --verbose
+  173  git log
+  174  git status
+  175  ls
+  176  git add test.txt
+  177  git log
+  178  git commit -m "Added a file"
+  179  git log
+  180  git status
+  181  git log
+  182  git push origin master
+  183  git pull https://github.com/vurukondanaresh/AnotherMonitor.git
+  184  ls
+  185  cd ..
+  186  git pull https://github.com/vurukondanaresh/AnotherMonitor.git
+  187  ls
+  188  cd git-local/
+  189  ls
+  190  cd devnet/
+  191  ls
+  192  git push origin master https://github.com/vurukondanaresh/devnet.git
+  193  ls
+  194  git pull https://github.com/vurukondanaresh/devnet.git
+  195  ls
+  196  cat mohan.txt
+  197  cat > mohan.txt
+  198  git add mohan.txt
+  199  git commit -m " hi"
+  200  git push origin master
+  201  ls
+  202  git branch feature
+  203  git commit
+  204  git status
+  205  git branch
+  206  git checkout feature
+  207  ls
+  208  cat >> mohan.txt
+  209  ls
+  210  git add mohan.txt
+  211  git commit
+  212  git commit -m " this is modify"
+  213  git status
+  214  ls
+  215  git branch
+  216  git checkout master
+  217  git branch
+  218  ls
+  219  nano mohan.txt
+  220  git status
+  221  git log
+  222  git branch
+  223  git checkout feature 
+  224  git log
+  225  ls
+  226  history >> naresh.txt
+  227  cat naresh.txt
+  228  git add naresh.txt
+  229  git commit
+  230  git commit -m "today"
+  231  git push origin master
+  232  cat naresh.txt
+  233  git add naresh.txt
+  234  git commit -m "commnads"
+  235  git log
+  236  git checkout master
+  237  git log
+  238  ls
+  239  cat naresh.txt
+  240  history >> naresh.txt

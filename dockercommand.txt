@@ -1,0 +1,229 @@
+    1  ls
+    2  ls -a
+    3  pwd
+    4  ls -l
+    5  ls -lr
+    6  ln
+    7  python3 -v
+    8  clear
+    9  print("hello world")
+   10  print("hello")
+   11  python3
+   12  exit
+   13  python3
+   14  ls
+   15  cd desktop
+   16  cd Desktop/
+   17  cd naresh
+   18  ls
+   19  python3 hello.py 
+   20  python hello.py 
+   21  cd ..
+   22  python3 ~/labs/devnet-src/python/hello-world.py
+   23  python3 ~/labs/devnet-src/python
+   24  ls
+   25  cd labs
+   26  ls
+   27  cd devnet-src/
+   28  ls
+   29  cd p
+   30  cd python/
+   31  ls
+   32  cat devices.txt
+   33  ls
+   34  cd \
+   35  ls
+   36  mv ~/D
+   37  mv ~/Desktop/naresh/hello.py ~/labs/devnet-src/python/
+   38  cd labs
+   39  cd devnet-src/python/
+   40  ls
+   41  nano hello.py
+   42  ls
+   43  cat devices.txt hello.py
+   44  ls
+   45  type() int
+   46  nano hello.py
+   47  python3 hello.py
+   48  nano hello.py
+   49  python3 hello.py
+   50  nano hello.py
+   51  python3 hello.py
+   52  nano hello.py
+   53  python3 hello.py
+   54  cat >>hello.py
+   55  python3 hello.py
+   56  nano hello.py
+   57  clear
+   58  nano hello.py
+   59  cat >> hello.py
+   60  python3 hello.py
+   61  cat hello.py
+   62  python3
+   63  clear
+   64  python3
+   65  exit
+   66  ls -lr
+   67  ls -la
+   68  man ls -lr
+   69  ls -a
+   70  ls -p
+   71  ls -w
+   72  ls /w
+   73  ls /p
+   74  man ls
+   75  python3
+   76  exit
+   77  python3
+   78  ls
+   79  cd labs
+   80  cd devnet-src/ls
+   81  cd python
+   82  ls
+   83  cd devnet-src/
+   84  ls
+   85  cd python/
+   86  ls
+   87  nano myCity.py
+   88  python3 myCity.py
+   89  nano myCity.py
+   90  python3 myCity.py
+   91  nano myCity.py
+   92  nano myLocation.py
+   93  python3 myLocaion.py
+   94  python3 myLocation.py
+   95  nano myLocation.py
+   96  python3 myLocation.py
+   97  nano myLocation.py
+   98  python3 myLocation.py
+   99  python3 /home/devasc/labs/devnet-src/python/display.py
+  100  cd labs
+  101  ls
+  102  cd devnet-src/
+  103  ls
+  104  cd git-local/
+  105  cd devnet/
+  106  ls
+  107  http://library.demo.local/api/v1/books
+  108  curl -X GET "http://library.demo.local/api/v1/books" -H "accept: application/json"
+  109  curl -X GET "http://library.demo.local/api/v1/books?includeISBN=true" -H "accept: application/json"
+  110  curl -X POST "http://library.demo.local/api/v1/books" -H "accept: application/json" -H "Content-Type: application/json" -d "{ \"id\": 4, \"title\": \"cloud\", \"author\": \"naresh\"}"
+  111  curl -X POST "http://library.demo.local/api/v1/books" -H "accept: application/json" -H "X-API-KEY: cisco|DCD0j2KLyIIyjkoeldjJNdWHtCWXtDHNTZgRrxyqDys" -H "Content-Type: application/json" -d "{ \"id\": 5, \"title\": \"security\", \"author\": \"naresh\"}"
+  112  python3 /home/devasc/labs/devnet-src/unittest/recursive_json_search.py
+  113  python3 /home/devasc/labs/devnet-src/unittest/test_json_search.py
+  114  python3 /home/devasc/labs/devnet-src/unittest/naresh.py
+  115  python3 /home/devasc/labs/devnet-src/parsing/parseyaml.py
+  116  python3 /home/devasc/labs/devnet-src/parsing/parsejson.py
+  117  vim user-input.sh
+  118  bash user-input.sh
+  119  sh user-input.sh 
+  120  uname
+  121  shell
+  122  sh
+  123  ls
+  124  vim naresh.sh
+  125  ls
+  126  mv user-input.sh user-input
+  127  ls
+  128  ./user-input
+  129  ls -l 
+  130  chmod a+x user-input 
+  131  ./user-input 
+  132  ls -l
+  133  ls -l user-input.sh
+  134  lss
+  135  ls
+  136  ls -l user-input 
+  137  chmod o+x user-input 
+  138  ls -l user-input 
+  139  chmod o+w user-input 
+  140  ls -l user-input 
+  141  chmod o-x user-input 
+  142  ls -l user-input 
+  143  chmod a-x user-input 
+  144  ls -l user-input 
+  145  chmod g-x user-input 
+  146  ls -l user-input 
+  147  chmod devasc-x user-input 
+  148  chmod devasc+x user-input 
+  149  ls -l user-input 
+  150  ls
+  151  cd labs/
+  152  cd devnet-src/
+  153  ls
+  154  cd sample-app/
+  155  ls
+  156  pip flask
+  157  pip3 flask
+  158  pip3 install flask
+  159  ls
+  160  cd static/
+  161  ls
+  162  cd ..
+  163  ls
+  164  cd naresh-flask/
+  165  ls
+  166  python3 naresh-flask.py 
+  167  pip3 install flask
+  168  python3 naresh-flask.py 
+  169  vim naresh-flask.py 
+  170  python3 naresh-flask.py 
+  171  cat > naresh-flask.py app.py
+  172  mv > naresh-flask.py app.py
+  173  ls
+  174  mv naresh-flask.py  app.py
+  175  ls
+  176  python3 app.py 
+  177  vim app.py
+  178  python3 app.py 
+  179  python3 naresh-flask.py 
+  180  ls
+  181  vim app.py
+  182  python3 app.py
+  183  ls
+  184  vim app.py
+  185  mv app.py naresh-flask.py
+  186  ls
+  187  exit
+  188  python3 /home/devasc/labs/devnet-src/sample-app/sample_app.py
+  189  systemctl status
+  190  systemctl status docker
+  191  docker version
+  192  systemctl stop docker
+  193  systemctl status docker
+  194  systemctl start docker
+  195  systemctl status docker
+  196  docker images
+  197  docker pull centos
+  198  docker images
+  199  docker --version
+  200  docker ps
+  201  docker talk
+  202  systemctl status docker
+  203  docker images
+  204  docker run hello-world
+  205  docker -all ps
+  206  docker context
+  207  docker history
+  208  docker images
+  209  docker info
+  210  docker logs
+  211  docker inspect
+  212  docker manifest
+  213  docker run centos:latest
+  214  docker ps -a
+  215  docker stop 860b649364a6
+  216  docker ps -a
+  217  docker images
+  218  docker run -it centos /bin/bash
+  219  docker ps
+  220  docker ps -a
+  221  docker rm 6c214021fb48
+  222  ls
+  223  docker ps
+  224  docker ps -a
+  225  docker images
+  226  docker rm 300e315adb2f 
+  227  docker stop 300e315adb2f 
+  228  docker images
+  229  history > dockercommand.txt
